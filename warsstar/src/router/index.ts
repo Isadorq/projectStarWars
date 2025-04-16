@@ -15,15 +15,15 @@
 // export default router
 
 import { createRouter, createWebHistory } from 'vue-router'
-import HomePage from '@/views/mainPage.vue'
+import MainPage from '@/views/MainPage.vue'
 
 const router = createRouter({
-  history: createWebHistory(process.env.BASE_URL || '/'),
+  history: createWebHistory(),
   routes: [
     {
       path: '/',
-      name: 'home',
-      component: HomePage
+      name: 'main',
+      component: MainPage
     }
   ]
 })
