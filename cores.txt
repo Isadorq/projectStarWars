@@ -1,0 +1,7 @@
+F8F8F8 branco
+F26522 laranja
+B0B0B0 cinza claro
+585858 cinza escuro
+C3A400 dourado
+101010 preto
+4A90E2 azul
